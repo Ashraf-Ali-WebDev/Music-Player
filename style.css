@@ -5,7 +5,7 @@ body {
 }
 header, footer {
   background-color: #121418;
-  padding: 0.2 rem 0;
+  padding: 0.2rem 0;
   text-align: center;
 }
 h1, h2, h3 {
@@ -62,5 +62,6 @@ footer a:hover i {
   transform: skewY(15deg) !important;
   scale: 1.1;
 }
+
 
 
